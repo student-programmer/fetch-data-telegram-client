@@ -77,4 +77,32 @@
     display: block;
   }
   
- 
+  .error1 {
+    font-size: 20px;
+    color: red;
+    position: absolute;
+    top: 70px;
+    left: 50%;
+    transform: translateX(-50%);
+    width:400px;
+  }
+  .error2 {
+    font-size: 20px;
+    color: red;
+    line-height: 48px;
+    position: absolute;
+    top: 130px;
+    left: 50%;
+    transform: translateX(-50%);
+    width:400px;
+  }
+  .error3 {
+    font-size: 20px;
+    color: red;
+    line-height: 48px;
+    position: absolute;
+    top: 200px;
+    left: 50%;
+    transform: translateX(-50%);
+    width:400px;
+  }
